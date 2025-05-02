@@ -1,0 +1,6 @@
+Superstore Sales Dashboard Insights
+
+1. The West region had the highest sales performance, particularly in Q3.
+2. Technology was the best-selling category, followed by Furniture and Office Supplies.
+3. South region lagged behind in total sales compared to other regions.
+4. Sales peaked during November and December, likely due to holiday season demand.
